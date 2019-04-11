@@ -46,7 +46,7 @@ binary format headers or encapsulation.
 
 To use the interactive command line interface included in the library,
 use the default Gradle task to build a JAR and then run it with
-`java -jar`:
+`java -jar` (make sure that Java 8 is used):
 
 ```console
 $ ./gradlew
